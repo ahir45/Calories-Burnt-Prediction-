@@ -1,0 +1,2 @@
+# Calories-Burnt-Prediction-
+This project focuses on predicting the number of calories burnt based on various input features. The dataset used for this analysis contains information about individuals' physical activities, heart rate, steps, and other relevant variables. The goal of this project is to develop a predictive model that can accurately estimate the number of calories burned during different activities.
